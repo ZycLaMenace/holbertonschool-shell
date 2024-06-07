@@ -1,8 +1,0 @@
-Script started on 2024-06-07 09:16:18+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="215" LINES="58"]
-# 
-# pwd   ^[[A^[[B        0-current_working_directory
-sh: 2: 0-current_working_directory: not found
-# pwd   #!. /bi,/  n. /bash pwd  
-# return
-
-Script done on 2024-06-07 09:16:50+00:00 [COMMAND_EXIT_CODE="127"]
