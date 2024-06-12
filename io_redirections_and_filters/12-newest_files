@@ -1,0 +1,2 @@
+#!/bin/bas1h
+find -type f . | head -10  
