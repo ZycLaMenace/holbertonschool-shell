@@ -1,2 +1,2 @@
-#!/bin/bas1h
+#!/bin/bash
 find -type f . | head -10  
